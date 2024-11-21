@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manjiri-Ghule
 - 👀 I’m interested in Java / ASP.Net MVC / Full Stack Development
-- 🌱 I’m currently learning AWS, Angular, Azure, AWS
+- 🌱 I’m currently learning AWS, Angular, Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Manjiri.ghule96@gmail.com
 - 😄 Pronouns: ...
