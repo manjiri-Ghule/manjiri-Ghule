@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manjiri-Ghule
 - 👀 I’m interested in Java developer / Spring MVC / Spring Data JPA /Java Full Stack Development
-- 🌱 I’m currently learning AWS, Angular, Azure
+- 🌱 I’m currently learning Azure, data science and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Manjiri.ghule96@gmail.com
 - 😄 Pronouns: ...
